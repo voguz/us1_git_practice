@@ -6,6 +6,6 @@ public class Payment {
 
     //Payment updated
 
-    //Ready to use
-    
+    //Ready to use it
+
 }
